@@ -1,0 +1,2 @@
+{"jobId":"audit_1781679071278_000001","url":"https://globaltrends.online/","domain":"globaltrends.online","crawlMode":"fullCrawl","pagesCrawled":50,"auditedAt":1781679707801,"durationMs":636523,"healthScore":0,"grade":"F","issueCount":{"critical":4,"warning":12,"info":12}}
+{"jobId":"audit_1781681187801_000002","url":"https://globaltrend.online/","domain":"globaltrend.online","crawlMode":"fullCrawl","pagesCrawled":50,"auditedAt":1781681783513,"durationMs":595712,"healthScore":0,"grade":"F","issueCount":{"critical":4,"warning":14,"info":10}}

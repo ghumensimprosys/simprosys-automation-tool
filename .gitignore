@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+shopify-auth.json
+playwright/.auth/
+playwright-report/
+test-results/
